@@ -1,4 +1,3 @@
-App code v1.0:
 import tkinter as tk
 from tkinter import ttk, messagebox
 from tkcalendar import DateEntry
